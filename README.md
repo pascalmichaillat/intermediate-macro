@@ -29,12 +29,12 @@ The material for the course is contained in four folders:
 
 The course is organized in 6 modules.
 
-1. Macroeconomic concepts: lectures 0--6; problem set 1
-2. IS-LM model of business cycles: lectures 7--13; problem sets 2--4
-3. Matching model of unemployment: lectures 14--20; problem sets 5--6
+1. Macroeconomic concepts: lectures 0–6; problem set 1
+2. IS-LM model of business cycles: lectures 7–13; problem sets 2–4
+3. Matching model of unemployment: lectures 14–20; problem sets 5–6
 4. Models of inflation: lecture 21
-5. Malthusian model of growth: lectures 22--24; problem set 7
-6. Solowian model of growth: lectures 25--29; problem set 8
+5. Malthusian model of growth: lectures 22–24; problem set 7
+6. Solowian model of growth: lectures 25–29; problem set 8
 
 ## Useful resource
 
