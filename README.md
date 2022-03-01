@@ -43,3 +43,7 @@ No textbook is required for this course, but [Macroeconomics](https://www.pearso
 ## Author
 
 The course material was developed by [Pascal Michaillat](https://www.pascalmichaillat.org/) for ECON 1210 at [Brown University](https://www.brown.edu).
+
+## License
+
+The content of this repository is licensed under the terms of the Creative Commons Attribution 4.0 International License ([CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)).
