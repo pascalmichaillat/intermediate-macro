@@ -2,6 +2,10 @@
 
 This repository contains material for a one-semester course in intermediate macroeconomics.
 
+## Course Webpage
+
+The course is hosted at https://www.pascalmichaillat.org/t2.html.
+
 ## Overview
 
 The course explores core topics in macroeconomics, including national statistics, consumption and saving, unemployment, inflation, business cycles, monetary and fiscal policy, economic growth, and population dynamics. The course starts by presenting short-run and long-run economic fluctuations in the United States and abroad. It then introduces models describing such fluctuations: 
